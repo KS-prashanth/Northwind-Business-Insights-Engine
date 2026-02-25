@@ -1,4 +1,4 @@
-# Northwind-Sales-Analysis
+# Northwind Business Insights Engine
 The primary objective of the project is to Analyse sales for Northwind data using QlikSense &amp; Tableau.
 
 ![alt text](https://github.com/shreyaswankhede/Northwind-Sales-Analysis/blob/master/3.jpg
@@ -40,9 +40,3 @@ The primary objective of the project is to Analyse sales for Northwind data usin
 * Geo Graph showing Total Revenue per City
 
 ***
-
-
-<br>Thank You!	
-<p><!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/shreyaswankhede" aria-label="Follow @shreyaswankhede on GitHub">Follow @shreyaswankhede</a>
-
